@@ -1,0 +1,14 @@
+@font-face {
+
+    font-family: 'custom fonts - planteagua';
+    src: url('/plante-agua-custom-fonts/static/src/fonts/betm-rounded-regular.ttf') format('ttf'),
+        url('/plante-agua-custom-fonts/static/src/fonts/glacial-indifference.ttf') format('ttf'),
+        url('/plante-agua-custom-fonts/static/src/fonts/playlist-caps.otf') format('otf'),
+        url('/plante-agua-custom-fonts/static/src/fonts/playlist-ornament.otf') format('otf'),
+        url('/plante-agua-custom-fonts/static/src/fonts/playlist-script.otf') format('otf')
+    ;
+    
+    font-weight: normal;
+    font-style: normal;
+
+}
